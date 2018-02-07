@@ -1,6 +1,6 @@
 {
   "name": "chaturbate-controller",
-  "homepage": "https://github.com/paulallen87/polymer-chaturbate-controller",
+  "homepage": "https://github.com/versys111/polymer-chaturbate-controller",
   "authors": [
     "Paul Allen <paulallen87555@gmail.com>"
   ],
@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0",
-    "socket-io": "https://github.com/paulallen87/polymer-socket-io.git"
+    "socket-io": "https://github.com/versys111/polymer-socket-io.git"
   },
   "resolutions": {
     "polymer": "^2.0.0-rc.3"
